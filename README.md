@@ -1,2 +1,2 @@
-# e-commrc
-This is a sql project where i solved different business problem 
+# SQL Data Analysis E-commerce and Web Analytics domain
+SQL Data Analysis E-commerce and Web Analytics domain
